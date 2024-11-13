@@ -6,7 +6,7 @@ This dashboard captures key HR metrics at a glance:
 Total Employees: 1,470 with an Attrition Rate of 16.12% and an Average Job Satisfaction Rating of 2.6/5 ⭐
 Active Employees: 1,233; Average Age: 37 years
 Gender Distribution: 588 females and 882 males
-Education-Wise Attrition: Attrition is highest among employees with a Bachelor's degree, while Doctoral holders show the lowest attrition rate.
+Education-Wise Attrition: Attrition is highest among employees with a Bachelor's degree, while Doctoral holders show the lowest attrition rate. 
 Department-Wise Attrition: Sales leads with 56.12% of total attrition, followed by R&D with 38.82%.
 Attrition by Job: Positions with the highest attrition include Laboratory Technicians and Sales Executives.
 Attrition by Age Group: The age group 25-34 has the highest attrition, followed by 35-44.
